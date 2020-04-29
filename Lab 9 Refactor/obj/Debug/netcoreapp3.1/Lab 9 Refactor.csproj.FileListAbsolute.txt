@@ -1,0 +1,13 @@
+C:\Users\Chris\Documents\GC bootcamp\week2\Lab 9 Refactor\Lab 9 Refactor\bin\Debug\netcoreapp3.1\Lab 9 Refactor.exe
+C:\Users\Chris\Documents\GC bootcamp\week2\Lab 9 Refactor\Lab 9 Refactor\bin\Debug\netcoreapp3.1\Lab 9 Refactor.deps.json
+C:\Users\Chris\Documents\GC bootcamp\week2\Lab 9 Refactor\Lab 9 Refactor\bin\Debug\netcoreapp3.1\Lab 9 Refactor.runtimeconfig.json
+C:\Users\Chris\Documents\GC bootcamp\week2\Lab 9 Refactor\Lab 9 Refactor\bin\Debug\netcoreapp3.1\Lab 9 Refactor.runtimeconfig.dev.json
+C:\Users\Chris\Documents\GC bootcamp\week2\Lab 9 Refactor\Lab 9 Refactor\bin\Debug\netcoreapp3.1\Lab 9 Refactor.dll
+C:\Users\Chris\Documents\GC bootcamp\week2\Lab 9 Refactor\Lab 9 Refactor\bin\Debug\netcoreapp3.1\Lab 9 Refactor.pdb
+C:\Users\Chris\Documents\GC bootcamp\week2\Lab 9 Refactor\Lab 9 Refactor\obj\Debug\netcoreapp3.1\Lab 9 Refactor.csprojAssemblyReference.cache
+C:\Users\Chris\Documents\GC bootcamp\week2\Lab 9 Refactor\Lab 9 Refactor\obj\Debug\netcoreapp3.1\Lab 9 Refactor.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Documents\GC bootcamp\week2\Lab 9 Refactor\Lab 9 Refactor\obj\Debug\netcoreapp3.1\Lab 9 Refactor.AssemblyInfoInputs.cache
+C:\Users\Chris\Documents\GC bootcamp\week2\Lab 9 Refactor\Lab 9 Refactor\obj\Debug\netcoreapp3.1\Lab 9 Refactor.AssemblyInfo.cs
+C:\Users\Chris\Documents\GC bootcamp\week2\Lab 9 Refactor\Lab 9 Refactor\obj\Debug\netcoreapp3.1\Lab 9 Refactor.dll
+C:\Users\Chris\Documents\GC bootcamp\week2\Lab 9 Refactor\Lab 9 Refactor\obj\Debug\netcoreapp3.1\Lab 9 Refactor.pdb
+C:\Users\Chris\Documents\GC bootcamp\week2\Lab 9 Refactor\Lab 9 Refactor\obj\Debug\netcoreapp3.1\Lab 9 Refactor.genruntimeconfig.cache
