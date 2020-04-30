@@ -155,11 +155,10 @@ namespace Lab_9_Refactor
 
     class StudentInfo
     {
-        public string name { get; set; }
-        public string favFood { get; set; }
-        public string hometown { get; set; }
-
-        public string gender { get; set; }
+        public string name;
+        public string favFood;
+        public string hometown;
+        public string gender;
 
         public StudentInfo(string sname, string scity, string sfood, string sgender)
         {
